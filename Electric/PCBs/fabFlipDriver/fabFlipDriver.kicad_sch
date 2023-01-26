@@ -4,6 +4,14 @@
 
   (paper "A4")
 
+  (title_block
+    (title "fabFlipDriver")
+    (date "2023-01-26")
+    (rev "V001")
+    (company "Fablab Munich")
+    (comment 1 "@tinyledmatrix ")
+  )
+
   (lib_symbols
     (symbol "74xx:74HC595" (in_bom yes) (on_board yes)
       (property "Reference" "U" (id 0) (at -7.62 13.97 0)
